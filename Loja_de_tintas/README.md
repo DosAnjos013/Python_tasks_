@@ -1,1 +1,2 @@
+# Funcionalidade do sistema de uma Loja de Tintas
 A proposta final desse desáfio era desenvolver um código que fosse capaz de retornar a melhor escolha possível na compra de latas de 18 litros ou galões de 3,6 litros de tinta para pintar a área determinada através de um input!
